@@ -1,6 +1,0 @@
-C:\dev\EarthquakeAdvisorTelegramBotBackend\bin\Release\net8.0\publish\EarthquakeAdvisorTelegramBotBackend.exe
-C:\dev\EarthquakeAdvisorTelegramBotBackend\bin\Release\net8.0\publish\EarthquakeAdvisorTelegramBotBackend.dll
-C:\dev\EarthquakeAdvisorTelegramBotBackend\bin\Release\net8.0\publish\EarthquakeAdvisorTelegramBotBackend.deps.json
-C:\dev\EarthquakeAdvisorTelegramBotBackend\bin\Release\net8.0\publish\EarthquakeAdvisorTelegramBotBackend.runtimeconfig.json
-C:\dev\EarthquakeAdvisorTelegramBotBackend\bin\Release\net8.0\publish\EarthquakeAdvisorTelegramBotBackend.pdb
-C:\dev\EarthquakeAdvisorTelegramBotBackend\bin\Release\net8.0\publish\Newtonsoft.Json.dll
